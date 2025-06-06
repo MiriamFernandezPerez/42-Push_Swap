@@ -77,3 +77,34 @@ Para compilar y ejecutar el programa:
 ```bash
 make
 ./push_swap [lista de números]
+```
+
+
+
+```bash
+./push_swap 3 2 1
+```
+
+---
+
+## 📌 Conclusión
+
+El proyecto **Push Swap** es una excelente oportunidad para profundizar en:
+
+- 📊 **Algoritmos de ordenación**
+- 🧠 **Optimización de recursos**
+- 🧮 **Análisis algorítmico**
+- 🧱 **Gestión eficiente de estructuras de datos**
+
+💡 A través de su implementación, desarrollarás habilidades clave en programación, análisis lógico y toma de decisiones basada en eficiencia.
+
+> ¡Prepárate para enfrentar el desafío y optimizar cada movimiento! 🚀🤖
+
+---
+
+# 📝 Créditos
+
+- 💻 **Proyecto:** Minishell – Escuela 42  
+- ✍️ **Autor original:** Miriam Fernández Pérez  
+
+---
